@@ -1,0 +1,7 @@
+python -m venv bankenv 
+
+flskenv\Scripts\activate
+
+pip install flask
+
+ 
